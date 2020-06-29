@@ -1,13 +1,77 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* *{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+  font-family: sans-serif;
+  background-color: #223343;
+}
+header{
+  padding:50px 15px 0px;
+  background-color: #66be7f;
+}
+.title{
+  color: black;
+  font-size: 40px;
+  font-weight: 500; 
+  text-align: left;
+}
+.mb-3{
+  display:flex;
+  margin-left:500px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.btn-search{
+  width: 80px;
+    height: 40px;
+    border-radius: 6px;
+    color: black;
+    background-color: #5be2dd;
+    position: relative;
+     right: 170px; 
+    bottom:40px;
+
 }
+.btn-log{
+  margin-right: 50px;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  bottom:95px;
+}
+.btn-shopping{
+  position: relative;
+  left:10px;
+}
+.input-search{
+  position: relative;
+  right: 170px;
+  bottom: 40px;
+  font-size: 20px;
+    height: 50px;
+    max-width: 600px;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+.title1{
+  position: relative;
+  left:250px;
+  top:50px;
+  font-size: 30px;
+}
+.title2{
+  position: relative;
+  left:50px;
+  top:50px;
+  font-size: 30px;
+
+}
+.title3{
+  position: relative;
+  left:50px;
+  top:50px;
+  font-size: 30px;
+} */
